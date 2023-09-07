@@ -1,0 +1,1 @@
+AmCharts.themes.none = {};
