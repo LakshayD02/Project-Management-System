@@ -7,4 +7,4 @@ Deployed Link : https://projectmanagement-lakshay.000webhostapp.com/
 
 Username: User
 
-Password: password
+Password: Password
